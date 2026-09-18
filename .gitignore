@@ -1,0 +1,10 @@
+﻿venv311/
+dataset/
+dataset.zip
+archive/
+archive.zip
+results/
+outputs/
+notebook
+__pycache__/
+*.pyc
