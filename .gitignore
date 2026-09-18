@@ -8,3 +8,4 @@ outputs/
 notebook
 __pycache__/
 *.pyc
+models/*.pth
